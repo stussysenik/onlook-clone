@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+deps/
+vendor/bundle/
+
+# Build output
+build/
+.svelte-kit/
+_build/
+engine/bin/
+wasm/target/
+wasm/crates/*/pkg/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+log/
+tmp/
+*.log
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Docker
+pgdata/
+
+# Rails secrets
+api/config/master.key
+api/config/credentials/*.key
+
+# Elixir
+*.ez
+erl_crash.dump
+
+# Rust
+**/*.rs.bk
