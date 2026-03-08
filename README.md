@@ -1,5 +1,7 @@
 # Onlook Clone
 
+Edit 03-08-2026: it's still very early stage, the fruit of the idea is coming from the frustration of having to always go into code. What if you instead could change something on the slider?
+
 A visual editor for building web interfaces, featuring a Rust/WASM/WebGPU performance engine with progressive enhancement.
 
 ## Screenshots
